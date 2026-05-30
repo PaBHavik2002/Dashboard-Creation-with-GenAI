@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "css-loader": "^7.1.4",
+    "framer-motion": "^12.40.0",
+    "lucide-react": "^1.17.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "style-loader": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "@babel/preset-react": "^7.29.7",
+    "babel-loader": "^10.1.1",
+    "webpack": "^5.107.2",
+    "webpack-bundle-tracker": "^3.2.4",
+    "webpack-cli": "^7.0.3"
+  }
+}

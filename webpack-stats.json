@@ -1,0 +1,16 @@
+{
+  "status": "done",
+  "assets": {
+    "main.bundle.js": {
+      "name": "main.bundle.js",
+      "path": "C:\\Users\\Bhavik Parmar\\OneDrive\\Desktop\\Dashboard Creator\\home\\static\\react\\main.bundle.js",
+      "publicPath": "/static/react/main.bundle.js"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main.bundle.js"
+    ]
+  },
+  "publicPath": "/static/react/"
+}
